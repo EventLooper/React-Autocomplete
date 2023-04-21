@@ -1,4 +1,4 @@
-# Books search auto complete component
+# Books search autocomplete component
 
 ## Prerequisites
 - Node.js (version 14 or above)
